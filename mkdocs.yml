@@ -1,0 +1,74 @@
+site_name: DMDGO Knowledgebase
+copyright: Copyright &copy; 2022 DMDGO
+edit_uri: ""
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - def_list
+  - attr_list
+  - md_in_html
+  - tables
+  - abbr
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+repo_url: https://github.com/V4NSH4J/discord-mass-DM-GO
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/tosviolators
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCoy1NM8wbxmVqlOpwWx8RWA
+
+theme:
+
+  features:
+    - navigation.instant
+    - search.suggest
+    - search.share
+    - content.tooltips
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+
+  font:
+    text: Open Sans
+  
+  icon:
+    logo: material/book
+    repo: fontawesome/brands/github
+  
+  palette: 
+        
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Blind Your Eyes
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7 
+        name: You're a man of culture
+
+
+    
+
+  name: material
+
+  
