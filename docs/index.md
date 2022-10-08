@@ -150,3 +150,17 @@ Edit `message.json` file and enter your desired message. Note that you cannot se
 - Just as a normal user cannot DM users without a mutual server, the same applies to DMDGO. In order to send a successful DM, the receipent must have enabled direct messages and have a mutual server with the token.
 
 It is completely normal for tokens to use captcha/get locked after a certain number of DM's sent, owing to Discord's anti spam countermeasures.
+
+## What Next?
+Now that you've set up DMDGO, you can either check out expert guides curated by experienced users or use the `Core Documentation` to find out more about specific settings!
+
+<div class="grid cards" markdown>
+-   :material-tools:{ .lg .middle } __Start Reading Our Core Docs__
+
+    ---
+
+    Core documentation helps you understand the deeper nuances of DMDGO alowing you to achieve unparalleled levels of customizability and speed
+
+    [:material-transfer-right: Get Started Now](https://red0888.github.io/DMDGO-KB/Core%20Documentation/Config%20Options/captcha%20settings/)
+
+</div>

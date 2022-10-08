@@ -2,6 +2,9 @@ site_name: DMDGO Knowledgebase
 copyright: Copyright &copy; 2022 DMDGO
 edit_uri: ""
 markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
       permalink: true
   - pymdownx.highlight:
