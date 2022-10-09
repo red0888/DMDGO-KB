@@ -163,4 +163,16 @@ Now that you've set up DMDGO, you can either check out expert guides curated by 
 
     [:material-transfer-right: Get Started Now](https://red0888.github.io/DMDGO-KB/Core%20Documentation/Config%20Options/captcha%20settings/)
 
-</div>
+  </div>
+
+<div class="grid cards" markdown>
+-  :material-book:{ .lg .middle } __Check Out Our Expert Guides__
+    
+    ---
+
+    Guides are curated by experienced people and help you understand to use DMDGO best and recommend the best places to get Proxies and other resources!
+
+    [:material-transfer-right: Check it Out!](/Miscallaneous/Guides/bypasses/)
+ 
+
+ </div>

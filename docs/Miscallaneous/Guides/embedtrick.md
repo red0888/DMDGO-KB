@@ -1,4 +1,4 @@
-# Method
+# Embed Method
 
 ## Discord Embed Message Method
 
