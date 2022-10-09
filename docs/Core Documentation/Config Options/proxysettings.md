@@ -38,6 +38,6 @@ Proxy protocol of your proxies, used for actions on Discord and sent to captcha 
 ## `timeout`
 **Type: INT**
 
-**Recommended Value: http**
+**Recommended Value: 60-75**
 
 Maximum time to wait before timing out incase of slow proxies or incase a proxy does not connect.
